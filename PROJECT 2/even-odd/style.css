@@ -1,0 +1,4 @@
+body{font-family:Arial;background:#1e1e2f;height:100vh;display:flex;justify-content:center;align-items:center;color:#fff}
+.card{background:#2c2c44;padding:40px;border-radius:10px;text-align:center}
+button{padding:10px 20px;background:#ff9800;border:none;border-radius:6px;color:white;cursor:pointer}
+#output{margin-top:20px;font-size:18px}
